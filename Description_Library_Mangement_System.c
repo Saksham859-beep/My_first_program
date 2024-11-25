@@ -1,7 +1,7 @@
 #Hey!!Saksham this side.
 
 
-#I have created This Code in managing books in library.
+#I have created This Code in managing books of library.
 
 #This Code is Created in C Programming Language.
 
